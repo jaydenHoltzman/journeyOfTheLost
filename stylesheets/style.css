@@ -1,0 +1,81 @@
+body{
+  background-image: linear-gradient(to bottom, #000000, #EFEFEF);
+  
+  color: #FFFFFF;
+  
+  font-family: Georgia, Serif;
+  font-size: 22px;
+}
+
+article{
+  padding-top: 1em;
+}
+
+article div{
+  height: 20em;
+  
+  line-height: 1em;
+  
+  margin: 0 auto;
+  
+  overflow: scroll;
+  overflow-x: hidden;
+  
+  padding: 1em; 
+  
+  word-break: keep-all;
+  width: 45%;
+}
+
+#ButtonArea{
+  line-height: 1em;
+  
+  margin: 1em auto;
+  
+  padding-left: 0%;
+  
+  text-align: center;
+}
+
+button{
+   border-top: 1px solid #6ea2c2;
+   background: #79a6c4;
+   border-radius: 8px;
+   border-radius: 8px;
+   border-radius: 8px;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   
+   color: #2f3136;
+   
+   font-size: 1.5em;
+   font-family: Georgia, Serif;
+   
+   padding-bottom: 7px 14px;
+  
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   text-decoration: none;
+   
+   vertical-align: middle;
+}
+
+button:hover{
+   border-top-color: #28597a;
+   background: #28597a;
+   
+   color: #e6e1e4;
+}
+
+button:active{
+   border-top-color: #2283bf;
+   background: #2283bf;
+}
+
+img{
+  max-height: 50%;
+  max-width: 50%;
+  
+  padding-left: 25%;
+}
+
